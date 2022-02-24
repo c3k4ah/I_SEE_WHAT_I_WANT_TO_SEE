@@ -1,2 +1,10 @@
+import 'package:flutter/material.dart';
 
-//INIT PROJECT
+class Root extends StatelessWidget {
+  const Root({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
